@@ -1,4 +1,4 @@
-Index_Monster,Monster,Criminal record,Age,Gender,Height in cm,Speed Level,Strength Level,Allergy,Favorite Food
+importtIndex_Monster,Monster,Criminal record,Age,Gender,Height in cm,Speed Level,Strength Level,Allergy,Favorite Food
 2101,Witch,No,526.0,F,197.0,16.0,1.0,hazelnut,brain
 9299,Zombie,Yes,46.0,M,184.0,20.0,7.0,cat hair,humans
 6824,Vampire,No,442.0,M,192.0,21.0,7.0,sunlight,pesto pasta
