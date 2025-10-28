@@ -302,7 +302,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 7164,2022-06-30,skeleton,84,castle,assault,knife,dusk,bones,2022,June,Thursday,long
 1423,2024-10-03,zombie,3,mountain,kidnapping,pistol,dawn,teeth,2024,October,Thursday,short
 6759,2024-08-01,vampire,81,castle,assault,unknown,night,cloak,2024,August,Thursday,long
-3435,2020-07-26,skeleton,53,castle,assault,brute force,night,not found,2020,July,Sunday,medium
+3435,2020-07-26,skeleton,53,castle,assault,brute force,night,cloak,2020,July,Sunday,medium
 109,2022-10-27,vampire,33,castle,assault,knife,night,blood,2022,October,Thursday,medium
 5694,2021-11-30,skeleton,63,mountain,nightly disturbance,pistol,night,cloak,2021,November,Tuesday,long
 8568,2021-09-28,ghost,7,forest,nightly disturbance,unknown,night,potions,2021,September,Tuesday,short
@@ -1733,7 +1733,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 4653,2020-07-08,ghost,19,village,vandalism,unknown,dawn,potions,2020,July,Wednesday,short
 1453,2022-12-03,ghost,77,castle,nightly disturbance,knife,night,cloak,2022,December,Saturday,long
 475,2022-04-14,ghost,2,castle,theft,unknown,night,cloak,2022,April,Thursday,short
-5523,2020-10-06,werewolf,54,swamp,assault,brute force,night,not found,2020,October,Tuesday,medium
+5523,2020-10-06,werewolf,54,swamp,assault,brute force,night,cloak,2020,October,Tuesday,medium
 3364,2022-08-24,skeleton,35,castle,nightly disturbance,knife,night,cloak,2022,August,Wednesday,medium
 5888,2020-03-23,vampire,15,castle,nightly disturbance,brute force,night,cloak,2020,March,Monday,short
 8694,2020-10-26,skeleton,77,castle,nightly disturbance,knife,night,bones,2020,October,Monday,long
@@ -2747,7 +2747,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 1676,2024-09-27,witch,96,village,arson,knife,night,bones,2024,September,Friday,very long
 3615,2023-10-18,skeleton,24,mountain,arson,axe,day,cloak,2023,October,Wednesday,short
 761,2023-07-04,zombie,15,swamp,kidnapping,pistol,dusk,potions,2023,July,Tuesday,short
-6650,2020-06-20,skeleton,45,castle,assault,unknown,dusk,not found,2020,June,Saturday,medium
+6650,2020-06-20,skeleton,45,castle,assault,unknown,dusk,cloak,2020,June,Saturday,medium
 714,2023-08-13,witch,78,swamp,arson,unknown,dusk,cloak,2023,August,Sunday,long
 3046,2022-06-26,witch,28,swamp,arson,unknown,day,blood,2022,June,Sunday,short
 8645,2019-12-22,werewolf,56,mountain,assault,unknown,night,fur,2019,December,Sunday,medium
@@ -3779,7 +3779,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 2290,2021-09-21,skeleton,15,mountain,assault,brute force,day,bones,2021,September,Tuesday,short
 5380,2021-09-29,vampire,26,castle,murder,brute force,night,cloak,2021,September,Wednesday,short
 6910,2020-10-23,werewolf,22,forest,assault,axe,night,teeth,2020,October,Friday,short
-8585,2020-09-06,skeleton,99,unknown,nightly disturbance,pistol,night,cloak,2020,September,Sunday,very long
+8585,2020-09-06,skeleton,99,castle,nightly disturbance,pistol,night,cloak,2020,September,Sunday,very long
 6071,2024-03-24,werewolf,58,mountain,vandalism,pistol,night,fur,2024,March,Sunday,medium
 902,2020-04-18,ghost,72,castle,nightly disturbance,unknown,night,cloak,2020,April,Saturday,long
 1506,2021-04-24,skeleton,75,castle,arson,knife,dusk,bones,2021,April,Saturday,long
@@ -6686,7 +6686,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 1644,2021-03-26,zombie,44,swamp,kidnapping,pistol,dawn,teeth,2021,March,Friday,medium
 9373,2022-02-07,skeleton,63,mountain,assault,unknown,dusk,bones,2022,February,Monday,long
 1538,2022-04-05,zombie,54,village,vandalism,pistol,day,potions,2022,April,Tuesday,medium
-9908,2020-10-25,vampire,79,village,assault,brute force,dusk,not found,2020,October,Sunday,long
+9908,2020-10-25,vampire,79,village,assault,brute force,dusk,cloak,2020,October,Sunday,long
 363,2024-07-07,ghost,45,castle,nightly disturbance,knife,night,potions,2024,July,Sunday,medium
 140,2023-07-03,vampire,43,mountain,nightly disturbance,unknown,night,cloak,2023,July,Monday,medium
 304,2022-07-20,vampire,2,castle,nightly disturbance,unknown,night,blood,2022,July,Wednesday,short
@@ -6990,7 +6990,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 1122,2022-10-31,vampire,3,mountain,nightly disturbance,pistol,night,teeth,2022,October,Monday,short
 9119,2021-07-10,ghost,63,village,theft,unknown,dawn,cloak,2021,July,Saturday,long
 5537,2024-07-03,werewolf,17,swamp,assault,pistol,night,bones,2024,July,Wednesday,short
-3030,2022-12-15,zombie,17,swamp,kidnapping,unknown,dusk,not found,2022,December,Thursday,short
+3030,2022-12-15,zombie,17,swamp,kidnapping,unknown,dusk,cloak,2022,December,Thursday,short
 2422,2022-08-24,skeleton,93,mountain,arson,knife,day,cloak,2022,August,Wednesday,very long
 1199,2021-02-03,witch,19,village,arson,knife,day,potions,2021,February,Wednesday,short
 2030,2020-08-18,werewolf,98,forest,assault,brute force,night,fur,2020,August,Tuesday,very long
@@ -8117,7 +8117,7 @@ Index_Crimes,Date,Monster involved,Days of Investigation,Region,Crime Type,Crime
 7479,2021-04-25,werewolf,12,forest,assault,unknown,night,fur,2021,April,Sunday,short
 8896,2023-01-25,ghost,52,castle,arson,knife,dusk,cloak,2023,January,Wednesday,medium
 8472,2022-10-05,ghost,1,forest,nightly disturbance,brute force,night,potions,2022,October,Wednesday,short
-248,2020-03-19,ghost,33,unknown,vandalism,axe,night,potions,2020,March,Thursday,medium
+248,2020-03-19,ghost,33,castle,vandalism,axe,night,potions,2020,March,Thursday,medium
 7339,2024-08-05,ghost,64,village,theft,unknown,night,cloak,2024,August,Monday,long
 5492,2024-07-16,zombie,83,swamp,kidnapping,knife,day,blood,2024,July,Tuesday,long
 4482,2022-02-24,vampire,23,village,nightly disturbance,axe,night,blood,2022,February,Thursday,short
